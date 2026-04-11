@@ -15,8 +15,8 @@ export const dummyEmployeeDashboardData = {
         netSalary: 2000,
     },
     employee: {
-        firstName: "John",
-        lastName: "Doe",
+        firstName: "Cucung",
+        lastName: "Sukardi",
         position: "Software Engineer",
         department: "Engineering",
     },
